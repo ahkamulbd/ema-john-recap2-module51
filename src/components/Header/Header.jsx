@@ -7,10 +7,10 @@ const Header = () => {
         <nav className="header">
             <img src={logo} alt="" />
             <div>
-                <a href="/order">order</a>
-                <a href="/review">review</a>
-                <a href="/inventory">inventory</a>
-                <a href="/login">login</a>
+                <a href="/order">Order</a>
+                <a href="/review">Review</a>
+                <a href="/inventory">Inventory</a>
+                <a href="/login">Login</a>
             </div>
         </nav>
     );
