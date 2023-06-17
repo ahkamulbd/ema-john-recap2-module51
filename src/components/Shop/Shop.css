@@ -5,8 +5,13 @@
 
 .products-container {
     background-color: aquamarine;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 30px;
 }
 
 .cart-container {
     background-color: bisque;
+    padding-left: 40px;
 }

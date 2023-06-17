@@ -1,0 +1,32 @@
+.product {
+    width: 300px;
+    border: 2px solid goldenrod;
+    border-radius: 8px;
+    position: relative;
+}
+
+.product img {
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
+
+.product-info {
+    margin-left: 25px;
+}
+
+.product-btn {
+    width: 100%;
+    background-color: blanchedalmond;
+    position: absolute;
+    bottom: 0;
+}
+
+.product-btn:hover {
+    background-color: rgb(234, 128, 7);
+}
+
+.cart-icon {
+    margin-left: 10px;
+}
